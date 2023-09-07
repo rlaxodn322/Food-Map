@@ -1,5 +1,6 @@
 ## Food-Map(Jeju) 프로젝트
 ### 프로젝트 소개
+
 - kakao Map Api 사용하여, 제주도 맛집 웹 사이트 제작.
 - Category List 클릭시 해당 Category의 맛집이 나온다.
 - 마커 생성, 인포윈도우 생성, 이벤트 등록 하여 맛집에 대한 정보가 나온다.
